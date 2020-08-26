@@ -1,2 +1,2 @@
-Türkçe İsim Listesi
+# Türkçe İsim Listesi
 Türkçe bayan ve erkek karışık isim listesi.
